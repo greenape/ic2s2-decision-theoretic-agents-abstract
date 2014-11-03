@@ -1,0 +1,1068 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"harsh_moderate_mo",
+				"harsh_moderate_moderate_refer"
+			],
+			[
+				"harsh_moderate_li",
+				"harsh_moderate_light_no_refer"
+			],
+			[
+				"harsh_moderate_light",
+				"harsh_moderate_light_refer"
+			],
+			[
+				"harsh_light_modera",
+				"harsh_light_moderate_no_refer"
+			],
+			[
+				"harsh_light_moder",
+				"harsh_light_moderate_refer"
+			],
+			[
+				"harsh_light",
+				"harsh_light_light_refer"
+			],
+			[
+				"harsh_hea",
+				"harsh_heavy_heavy"
+			],
+			[
+				"harsh_heavy",
+				"harsh_heavy_moderate"
+			],
+			[
+				"harsh_heavy_",
+				"harsh_heavy_light"
+			],
+			[
+				"harsh_mo",
+				"harsh_moderate_drinker"
+			],
+			[
+				"aes",
+				"aesstring"
+			],
+			[
+				"out",
+				"emulator_outputs"
+			],
+			[
+				"group",
+				"group_sd"
+			],
+			[
+				"sig",
+				"sig_sd"
+			],
+			[
+				"ab",
+				"abstract_measures	import"
+			],
+			[
+				"referr",
+				"referral_game	import"
+			],
+			[
+				"carr",
+				"carring_game	import"
+			],
+			[
+				"he",
+				"heuristic_agents	import"
+			],
+			[
+				"rec",
+				"recognition_agents	import"
+			],
+			[
+				"sha",
+				"sharing_agents	import"
+			],
+			[
+				"inc",
+				"include_round"
+			],
+			[
+				"game",
+				"game_seed"
+			],
+			[
+				"include",
+				"include_seed"
+			],
+			[
+				"play",
+				"play_game	import"
+			],
+			[
+				"signal",
+				"signaller_share_weight"
+			],
+			[
+				"Grou",
+				"GroupHonesty	class"
+			],
+			[
+				"pla",
+				"player_type	statement"
+			],
+			[
+				"meas",
+				"measure_one	function"
+			],
+			[
+				"wom",
+				"women_2"
+			],
+			[
+				"wome",
+				"women_0"
+			],
+			[
+				"type",
+				"type_weights	statement"
+			],
+			[
+				"p",
+				"payoff_distinction"
+			],
+			[
+				"res",
+				"responder_args"
+			],
+			[
+				"make",
+				"make_figs_new"
+			],
+			[
+				"pay",
+				"payoffs"
+			],
+			[
+				"app",
+				"num_appointments"
+			],
+			[
+				"num",
+				"num_appointments"
+			],
+			[
+				"m",
+				"midwife"
+			],
+			[
+				"last",
+				"last_v"
+			],
+			[
+				"respon",
+				"response_log"
+			],
+			[
+				"sign",
+				"signal_risk"
+			],
+			[
+				"l",
+				"last_v"
+			],
+			[
+				"player",
+				"player_random"
+			],
+			[
+				"signaller",
+				"signaller_args"
+			],
+			[
+				"weigh",
+				"weighted_random_choice"
+			],
+			[
+				"typ",
+				"type_weights"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"roun",
+				"rounds_played_type_"
+			],
+			[
+				"pa",
+				"payoff"
+			],
+			[
+				"payo",
+				"payoff_belief"
+			],
+			[
+				"from",
+				"fromkeys"
+			],
+			[
+				"tot",
+				"total_belief"
+			],
+			[
+				"so",
+				"source"
+			],
+			[
+				"share",
+				"share_weight"
+			],
+			[
+				"mw",
+				"mw_res"
+			],
+			[
+				"signa",
+				"signaller_fn"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"women",
+				"women_memories"
+			],
+			[
+				"mid",
+				"midwife_type"
+			],
+			[
+				"midw",
+				"midwives"
+			],
+			[
+				"shoul",
+				"should_share"
+			],
+			[
+				"t",
+				"tmp_signaller"
+			],
+			[
+				"rece",
+				"recepient"
+			],
+			[
+				"mea",
+				"measures_women"
+			],
+			[
+				"low",
+				"low_low"
+			],
+			[
+				"h",
+				"harsh_low"
+			],
+			[
+				"har",
+				"harsh_mid"
+			],
+			[
+				"ha",
+				"harsh_high"
+			],
+			[
+				"index",
+				"index_only"
+			],
+			[
+				"ind",
+				"index_only"
+			],
+			[
+				"merge",
+				"merge_dbs"
+			],
+			[
+				"merg",
+				"merge_db"
+			],
+			[
+				"s",
+				"source"
+			],
+			[
+				"pro",
+				"probabilities"
+			],
+			[
+				"Fal",
+				"FalsePositiveUpto"
+			],
+			[
+				"midwif",
+				"midwife_type"
+			],
+			[
+				"RightC",
+				"RightCallUpto"
+			],
+			[
+				"Signal",
+				"SignalExperience"
+			],
+			[
+				"tota",
+				"total_right"
+			],
+			[
+				"total",
+				"total_calls"
+			],
+			[
+				"midwi",
+				"midwife_type	statement"
+			],
+			[
+				"pl",
+				"player_type	statement"
+			],
+			[
+				"Lex",
+				"LexicographicSignaller"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"mw_",
+				"mw_weights"
+			],
+			[
+				"Cas",
+				"CaseloadReferralGame	class"
+			],
+			[
+				"Rec",
+				"RecognitionSignaller	class"
+			],
+			[
+				"Ba",
+				"BayesianPayoffSignaller	class"
+			],
+			[
+				"rand",
+				"random_expectations	function"
+			],
+			[
+				"fil",
+				"file_prefix"
+			],
+			[
+				"ref",
+				"referred_by_type"
+			],
+			[
+				"dec",
+				"decision_rule_signaller"
+			],
+			[
+				"al",
+				"alspac"
+			],
+			[
+				"vali",
+				"valid_args	statement"
+			],
+			[
+				"u",
+				"UnpicklingError	class"
+			],
+			[
+				"kw",
+				"kwargs"
+			],
+			[
+				"param",
+				"param_hash"
+			],
+			[
+				"measures_",
+				"measures_midwives"
+			],
+			[
+				"run",
+				"run_params"
+			],
+			[
+				"Sign",
+				"SignalMeaning"
+			],
+			[
+				"Or",
+				"OrderedDict"
+			],
+			[
+				"Typ",
+				"TypeSignal"
+			],
+			[
+				"Type",
+				"TypeFinished"
+			],
+			[
+				"Bay",
+				"BayesianPayoffResponder"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"__",
+				"__getattr__"
+			],
+			[
+				"rou",
+				"round_response_belief"
+			],
+			[
+				"mi",
+				"midwife_type"
+			],
+			[
+				"curr",
+				"current_type_distribution"
+			],
+			[
+				"Bayes",
+				"BayesianSignaller	class"
+			],
+			[
+				"payoff",
+				"payoff_count	statement"
+			],
+			[
+				"pY",
+				"payoffs"
+			],
+			[
+				"signall",
+				"signaller"
+			],
+			[
+				"Le",
+				"LexicographicResponder	class"
+			],
+			[
+				"re",
+				"response_weights	statement"
+			],
+			[
+				"sorted",
+				"sorted_mappings	statement"
+			],
+			[
+				"Inde",
+				"IndexError	class"
+			],
+			[
+				"sorte",
+				"sorted_mappings	statement"
+			],
+			[
+				"Ami",
+				"AmbiguityResponder	class"
+			],
+			[
+				"max",
+				"max_type"
+			],
+			[
+				"bel",
+				"bel_dum"
+			],
+			[
+				"indiv",
+				"individual_type_matches	statement"
+			],
+			[
+				"poss",
+				"possible_types	param"
+			],
+			[
+				"n",
+				"n_k"
+			],
+			[
+				"alph",
+				"alpha_dot"
+			],
+			[
+				"alp",
+				"alpha_k"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jg1g12/Dropbox/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter06.tex",
+		"/Users/jg1g12/Dropbox/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter02.tex",
+		"/Users/jg1g12/Dropbox/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter05.tex",
+		"/Users/jg1g12/Dropbox/University/SummerProject/writing/disclosure-article/disclosure_game.tex",
+		"/Users/jg1g12/Dropbox/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter04.tex",
+		"/Users/jg1g12/bibtex-sync/bibsync.sh",
+		"/Users/jono/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter01.tex",
+		"/Users/jono/University/SummerProject/writing/classicthesis-LyX-v4.1/Chapter03.tex",
+		"/Applications/Plex Media Server.app/Contents/MacOS/Plex Media Server",
+		"/Users/jono/Library/Application Support/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+		"/Users/jono/University/SummerProject/graphviz/mw_influence.dot",
+		"/Users/jono/University/SummerProject/writing/disclosure-article/figures/payoff_women_decision_problem.dot",
+		"/Users/jono/University/SummerProject/writing/disclosure-article/article.sublime-project",
+		"/Users/jono/University/SummerProject/r/PSA-R-functions/gpsetup.R",
+		"/Users/jono/University/SummerProject/r/sharing_emu.R",
+		"/Users/jono/University/SummerProject/fortran/mw_prop_emulator_inputs.txt",
+		"/Users/jono/Desktop/que",
+		"/Users/jono/University/SummerProject/data/sensitivity/emulators/prospect/sig/jointeffects.out",
+		"/Users/jono/University/SummerProject/fortran/payoff_honesty_inputs.txt",
+		"/Users/jono/University/SummerProject/r/w_prop_emu.R",
+		"/Users/jono/University/SummerProject/bash/launch_emu.sh",
+		"/Users/jono/University/SummerProject/r/sensitivity.R",
+		"/Users/jono/University/SummerProject/data/sensitivity/emulators/payoff/sig_sd/emulator_rough_out.dat",
+		"/Users/jono/University/SummerProject/bash/lexic_3.prn",
+		"/Users/jono/University/SummerProject/data/sensitivity/emulators/payoff/group_sd/maineffects.out",
+		"/Users/jono/University/SummerProject/data/sensitivity/all.prj",
+		"/Users/jono/University/SummerProject/data/sensitivity/fixed.prj",
+		"/Users/jono/University/SummerProject/notes/log.txt",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/__init__.py",
+		"/Users/user/Dropbox/university/SummerProject/bash/abstract_local.sh",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/run.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/sharing.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/.gitignore",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/experiments.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/setup.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/scooptest.py",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/user/Dropbox/University/SummerProject/python/disclosuregame/.gitignore",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/heuristic.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/cpt.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/rl.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/carrying.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Util/__init__.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Measures/__init__.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Measures/measures.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/__init__.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/recognition.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/priority.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/payoff.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/rl_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/sharing.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/carrying_game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/sharing_game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/sharing_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Measures/abstract_measures.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Measures/individual_measures.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/recognition_game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/referral_game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/carring_game.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/sharing_games.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/cpt_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/heuristic_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/payoff_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/priority_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/recognition_agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Run.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Games/Model.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Measures/Measures.py",
+		"/Users/user/Dropbox/university/SummerProject/python/DisclosureGame/DisclosureGame/bin/disclosure-game",
+		"/Users/user/Dropbox/university/SummerProject/r/sensitivity.R",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/Agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/HeuristicAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/PriorityAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/ProspectTheoryModel.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/RecognitionAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/disclosuregame/disclosuregame/Agents/SharingAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/notes/log.txt",
+		"/Users/user/Dropbox/university/SummerProject/python/Measures.py",
+		"/Users/user/Dropbox/University/SummerProject/python/DisclosureGame/Agents/Agents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/DisclosureGame/Util/__init__.py",
+		"/Users/user/Dropbox/university/SummerProject/python/DisclosureGame/Games/Model.py",
+		"/Users/user/Dropbox/university/SummerProject/python/DisclosureGame/__main__.py",
+		"/Users/user/Dropbox/University/SummerProject/python/DisclosureGame/Util/Utils.py",
+		"/Users/user/Dropbox/University/SummerProject/python/DisclosureGame/bin/disclosure-game",
+		"/Users/user/Dropbox/university/SummerProject/python/Run.py",
+		"/Users/user/Dropbox/university/SummerProject/python/SharingGames.py",
+		"/Users/user/Dropbox/university/SummerProject/python/SharingAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/HeuristicAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/python/ScoopTest.py",
+		"/Users/user/Dropbox/university/SummerProject/bash/test.sh",
+		"/Users/user/Dropbox/University/SummerProject/r/sensitivity.R",
+		"/Users/user/Dropbox/University/SummerProject/bash/sensitivity.sh",
+		"/Users/user/My Games/Fallout3/FALLOUT.INI",
+		"/Users/user/Dropbox/University/SummerProject/r/facet_plots.R",
+		"/Users/user/Dropbox/university/SummerProject/bash/w_sharing_new.sh",
+		"/Users/user/Dropbox/university/SummerProject/python/Experiments.py",
+		"/Users/user/Dropbox/university/SummerProject/bash/proportion_jobs.sh",
+		"/Users/user/Dropbox/University/SummerProject/bash/sensitivity_jobs.sh",
+		"/Users/user/Dropbox/university/SummerProject/bash/sharing_jobs.sh",
+		"/Users/user/Dropbox/university/SummerProject/r/abstract_figs.R",
+		"/Users/user/Dropbox/University/SummerProject/bash/abstract_local.sh",
+		"/Users/user/Dropbox/university/SummerProject/r/sigh_methods.R",
+		"/Users/user/Documents/test.gbt",
+		"/Users/user/Documents/test2.gbt",
+		"/Users/user/Dropbox/university/SummerProject/python/RLAgents.py",
+		"/Users/user/Dropbox/university/SummerProject/bash/local_proportions.sh",
+		"/Users/user/Dropbox/university/SummerProject/python/CarryingGame.py",
+		"/Users/user/Dropbox/university/SummerProject/python/ReferralGame.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/PriorityAgents.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/bash/mw_proportions.sh",
+		"/Users/jg1g12/Dropbox/University/SummerProject/r/abstract_figs.R",
+		"/Users/jg1g12/Dropbox/University/SummerProject/notes/log.txt",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/SharingGames.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/ReferralGame.py",
+		"/Users/user/Dropbox/university/SummerProject/python/Model.py",
+		"/Users/user/Dropbox/university/SummerProject/python/RecognitionAgents.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/CarryingGame.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/RecognitionAgents.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/ProspectTheoryModel.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/Model.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/HeuristicAgents.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/PayoffAgents.py",
+		"/Users/jg1g12/Dropbox/University/SummerProject/r/crunch.R",
+		"/Users/jg1g12/Dropbox/University/SummerProject/python/profile_test.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jg1g12/Dropbox/University/SummerProject/disclosuregame/disclosuregame",
+			"/Users/jg1g12/Dropbox/University/SummerProject/disclosuregame",
+			"/Users/jg1g12/Dropbox/University/SummerProject/python",
+			"sigh_methods.R",
+			"mw_sharing.R",
+			"SharingGames.py",
+			"HeuristicAgents.py",
+			"Model.py",
+			"abstract_figs.R",
+			"analyse.R",
+			"",
+			"gametree2.dot",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(-> [a-z_]*[y|t|e]_refer)",
+			"([a-z_]*)",
+			"[a-z_]*no_refer",
+			"(-> [a-z_]*moderate) *\n",
+			"(-> [a-z_]*heavy) *\n",
+			"(-> [a-z_]*light) *\n",
+			"low_[a-z_]*",
+			"medium_[a-z_]*",
+			" low_[a-z]*_[a-z_]* ",
+			"[label=\"Don't refer\"]",
+			"no_refer",
+			"gr\\o",
+			"gray, j",
+			"gray, ",
+			"allais",
+			"bayes ",
+			"bijak",
+			"National Institute for Health and Clinical Excellence",
+			"systematic re",
+			"moderate al",
+			"iridis",
+			"mits)",
+			"breaks",
+			"font",
+			"size",
+			"Games.",
+			"Mode",
+			"agents",
+			"Model",
+			"model",
+			"threaded",
+			"summary(fun.data = \"mean_cl_boot\",",
+			"summary(fun.data = \"mean_cl_boot\",smoo",
+			"type_1",
+			"import random",
+			"random.seed",
+			"random.",
+			"random",
+			"import random",
+			"random.",
+			"try:",
+			"280096",
+			"items",
+			"df",
+			"share_width",
+			"self.memory[source]",
+			"self.type_log",
+			"self.signal_type_matches",
+			"self.payoff_log",
+			"self.type_matches",
+			"self.signal_matches",
+			"self.response_signal_matches",
+			"self.response_log",
+			"self.signal_log",
+			"self.payoff_log",
+			"theme",
+			"multiprocessing.log_to_stderr()",
+			"get_logger()",
+			"multiprocessing.logger",
+			"print",
+			"0..",
+			"return 0",
+			" print",
+			"Respond",
+			"Recognition",
+			"Respond",
+			"mw",
+			"type_log",
+			"pool.map",
+			"_'",
+			"_ ",
+			"sweep",
+			"_ ",
+			"Signaller",
+			"random_exp",
+			"max(df$appointment))",
+			"print ",
+			"scoop.logger.info",
+			"scoop.",
+			"futures.map",
+			"[signal",
+			" midwife_type",
+			"futures",
+			"if sig",
+			"if player_",
+			"if midwife_type",
+			"object",
+			"dir",
+			"alspac\"",
+			")",
+			"alspac/",
+			"name",
+			"/%s/%s",
+			"results/",
+			"Game",
+			"print",
+			"ref",
+			"referral",
+			"game",
+			"ProspectTheoryResponder",
+			".update_beliefs",
+			"self.rounds += 1",
+			"== signal",
+			"== midwife_type",
+			"== player_type",
+			"return f",
+			"f(",
+			"(",
+			"game.pla",
+			"\", name",
+			"/recognition",
+			".csv\"",
+			"figures/",
+			"_%s",
+			".png\")",
+			"png(",
+			".png\"",
+			"recog_test",
+			"recognition",
+			"signals_",
+			"signals_imply_referral",
+			"signals_",
+			"signals(",
+			"recognition",
+			"map(x ->",
+			"filter(x ->",
+			" ",
+			"kennedy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1 [penwidth=2.0]",
+			"$1,",
+			"",
+			"$1 [penwidth=2.0]\n",
+			"$1 [penwidth=3.0]\n",
+			"$1 [penwidth=1.0]\n",
+			"",
+			"no_refer [label=\"Don't refer\"]",
+			"National Institute for Health and Care Excellence",
+			"mits, name=name)",
+			"limits",
+			"disclosuregame.Games.",
+			"bayes",
+			"game",
+			"smooth(",
+			"type_2",
+			"self.random.",
+			"qdel 280096",
+			"iteritems",
+			"dataset",
+			"share_prob",
+			"self.memory[source][\"payoff_count\"]",
+			"self.memory[source][\"type_log\"]",
+			"self.memory[source][\"signal_type_matches\"]",
+			"self.memory[source][\"payoff_log\"]",
+			"self.memory[source][\"type_matches\"]",
+			"self.memory[source][\"signal_matches\"]",
+			"self.memory[source][\"response_signal_matches\"]",
+			"self.memory[source][\"response_log\"]",
+			"self.memory[source][\"signal_log\"]",
+			"self.memory[source][\"payoff_log\"]",
+			"theme_bw() + theme",
+			"theme_bw",
+			"logger",
+			"log_to_stderr()",
+			"multiprocessing.get_logger()",
+			"multiprocessing.logger.info",
+			"0.",
+			"return 0.",
+			" #print",
+			"Signall",
+			"Sharing",
+			"Signall",
+			"women",
+			"map",
+			"_low_prior_'",
+			"_low_prior_",
+			"priors_sweep",
+			"_sweep_",
+			"Responder",
+			"(max(df$appointment) + 1))",
+			"print",
+			"#scoop.",
+			"map",
+			"[self.signal",
+			"if self.sig",
+			"if self.player_",
+			"if self.midwife_type",
+			"Measure",
+			"target_dir",
+			"results/alspac\", \"alspac\"",
+			", \"alspac\")",
+			"",
+			"dir, name",
+			"/%s/%s/%s",
+			"results/alspac/",
+			"ReferralGame",
+			"standard",
+			"file",
+			"",
+			"== self.signal",
+			"== self.midwife_type",
+			"== self.player_type",
+			"",
+			"measure(self, ",
+			"\", name, game",
+			"\", game, name",
+			"/%s",
+			"_%s.csv\"",
+			"figures/%s/",
+			"",
+			".png\", name)",
+			"png(sprintf(",
+			"_%s.png\")",
+			"alspac",
+			"referral",
+			"referred_by_type",
+			"signals_imply_referral_",
+			"signals_imply_referral",
+			"signals_by_type(",
+			"referral",
+			"map(lambda x:",
+			"filter(lambda x:",
+			"",
+			"referral_by_midwife_type_woman_type",
+			"Type\") + ylim(0, 0.6))",
+			"prospect",
+			"",
+			"mid",
+			"Light\"",
+			"Light",
+			"Moderate",
+			"Heavy",
+			",",
+			"-2",
+			"Nonjudgemental midwife",
+			"Harsh midwife",
+			"Moderate midwife",
+			"",
+			"0",
+			"",
+			"-1",
+			"\"-2",
+			"0",
+			", 2",
+			"\"2",
+			"-1",
+			"-2",
+			"prospect",
+			"figures/prospect_",
+			"prospect",
+			"",
+			"alspac_caseload",
+			"TRUE",
+			"type_2",
+			"color=",
+			"priors_caseload",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ic2s2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
