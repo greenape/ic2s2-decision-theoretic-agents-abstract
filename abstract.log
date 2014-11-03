@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.29)  3 NOV 2014 10:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.29)  3 NOV 2014 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -242,7 +242,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
-(./abstract.aux)
+(./abstract.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 \openout1 = `abstract.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -259,8 +263,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
-
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen117
@@ -321,120 +324,96 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 18.
 
 
-Package natbib Warning: Citation `Axelrod1997' on page 1 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `epstein1994growing' on page 1 undefined on in
-put line 25.
-
-
 Package natbib Warning: Citation `agent_zero' on page 1 undefined on input line
  25.
 
-
-Package natbib Warning: Citation `gilbert1999simulation' on page 1 undefined on
- input line 25.
-
-
-Package natbib Warning: Citation `Macy2002a' on page 1 undefined on input line 
-25.
-
-
-Package natbib Warning: Citation `Resnick' on page 1 undefined on input line 25
-.
-
-
-Package natbib Warning: Citation `Silverman2011' on page 1 undefined on input l
-ine 25.
-
-
-Package natbib Warning: Citation `Silverman2013' on page 1 undefined on input l
-ine 25.
-
-
-Package natbib Warning: Citation `Waldherr2013' on page 1 undefined on input li
-ne 25.
-
-
-Package natbib Warning: Citation `Padoa-Schioppa2006' on page 1 undefined on in
-put line 35.
-
-
-Package natbib Warning: Citation `Rustichini2009' on page 1 undefined on input 
-line 35.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
-
-Package natbib Warning: Citation `RiosInsua2009' on page 1 undefined on input l
-ine 38.
-
-
-Package natbib Warning: Citation `Kreps1987' on page 1 undefined on input line 
-44.
-
-
-Package natbib Warning: Citation `NICE2010' on page 1 undefined on input line 4
-4.
-
-[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-
-Package natbib Warning: Citation `NICE2010' on page 2 undefined on input line 4
-6.
-
+(Font)              <7> on input line 35.
 Package acronym Info: Label `acro:CPT' newly defined as it shall be overridden
-although it is yet undefined on input line 50.
+although it is yet undefined on input line 40.
 
-Package natbib Warning: Citation `Tversky1992' on page 2 undefined on input lin
-e 50.
+Package caption Warning: \label without proper \caption on input line 46.
+See the caption package documentation for explanation.
 
 
-Package natbib Warning: Citation `Gigerenzer1996' on page 2 undefined on input 
-line 50.
+LaTeX Warning: Reference `fig_1' on page 1 undefined on input line 42.
 
-No file abstract.bbl.
+
+Package caption Warning: \label without proper \caption on input line 51.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig_2' on page 1 undefined on input line 44.
+
+<honesty_plot.png, id=31, 6806.42876pt x 4717.625pt>
+File: honesty_plot.png Graphic file (type png)
+ <use honesty_plot.png>
+Package pdftex.def Info: honesty_plot.png used on input line 46.
+(pdftex.def)             Requested size: 259.46837pt x 179.8187pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<honesty_sharing.png, id=33, 6806.42876pt x 4717.625pt>
+File: honesty_sharing.png Graphic file (type png)
+
+<use honesty_sharing.png>
+Package pdftex.def Info: honesty_sharing.png used on input line 51.
+(pdftex.def)             Requested size: 259.46837pt x 179.8187pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./abstract.bbl
+Underfull \vbox (badness 2671) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-[2
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
+[2 <./honesty_plot.png> <./honesty_sharing.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
  (./abstract.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `abstract.out' has not changed.
-(rerunfilecheck)             Checksum: 450DF9D88198740EE7A0D747834517A1;275.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+(rerunfilecheck)             Checksum: E0A44AA8FF0D0D660EEE263C9AF33C2B;101.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 7132 strings out of 493117
- 108463 string characters out of 6135432
- 206741 words of memory out of 5000000
- 10531 multiletter control sequences out of 15000+600000
- 7897 words of font info for 28 fonts, out of 8000000 for 9000
+ 7199 strings out of 493117
+ 109896 string characters out of 6135432
+ 207638 words of memory out of 5000000
+ 10578 multiletter control sequences out of 15000+600000
+ 7934 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,8n,42p,1332b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,8n,42p,1092b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on abstract.pdf (2 pages, 123750 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on abstract.pdf (2 pages, 1798634 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 26 named destinations out of 1000 (max. 500000)
+ 27 words of extra memory for PDF output out of 10000 (max. 10000000)
 

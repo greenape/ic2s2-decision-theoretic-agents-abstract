@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: abstract.aux
+The style file: IEEEtranSN.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: library.bib
+Warning--I didn't find a database entry for "agent_zero"
+-- IEEEtranSN.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting Natbib version - not for normal IEEE work.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+
+Done.
+You've used 16 entries,
+            5174 wiz_defined-function locations,
+            1121 strings with 11564 characters,
+and the built_in function-call counts, 16773 in all, are:
+= -- 1624
+> -- 537
+< -- 140
++ -- 235
+- -- 126
+* -- 911
+:= -- 2554
+add.period$ -- 33
+call.type$ -- 16
+change.case$ -- 72
+chr.to.int$ -- 280
+cite$ -- 32
+duplicate$ -- 1026
+empty$ -- 1062
+format.name$ -- 169
+if$ -- 3741
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 155
+newline$ -- 72
+num.names$ -- 66
+pop$ -- 366
+preamble$ -- 1
+purify$ -- 56
+quote$ -- 2
+skip$ -- 1278
+stack$ -- 0
+substring$ -- 674
+swap$ -- 812
+text.length$ -- 41
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 361
+warning$ -- 0
+while$ -- 99
+width$ -- 0
+write$ -- 224
+(There was 1 warning)
