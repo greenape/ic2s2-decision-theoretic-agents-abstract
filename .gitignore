@@ -2,3 +2,19 @@
 *.sync*.gz
 
 *.fdb_latexmk
+
+*.aux
+
+*.aux
+
+*.bbl
+
+*.blg
+
+*.fdb_latexmk
+
+*.log
+
+*.out
+
+*.aux
