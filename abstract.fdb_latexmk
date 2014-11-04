@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex abstract"] 1415027362 "abstract.aux" "abstract.bbl" "abstract" 1415027373
-  "/usr/local/texlive/2014/texmf-dist/bibtex/bst/IEEEtran/IEEEtranSN.bst" 1222816716 66735 78e64952c9bac5f8ff6a45e61e473275 ""
+["bibtex abstract"] 1415111899 "abstract.aux" "abstract.bbl" "abstract" 1415111899
+  "IEEEtranSN.bst" 0 -1 0 ""
   "abstract.aux" 1415027372 3579 ae689d3ae8fcf475e5ba2433c7eb2310 ""
   "abstract.bcf" 0 -1 0 ""
-  "library.bib" 1412360840 852467 fc0e566211910a0615be79d1b70dc71f ""
+  "library.bib" 1415111890 852684 59dd907fdb610cf52ea5afa354b1ac1b ""
   (generated)
-  "abstract.blg"
   "abstract.bbl"
-["pdflatex"] 1415027363 "abstract.tex" "abstract.pdf" "abstract" 1415027373
+  "abstract.blg"
+["pdflatex"] 1415111798 "abstract.tex" "abstract.pdf" "abstract" 1415111899
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -49,11 +49,11 @@
   "abstract.aux" 1415027372 3579 ae689d3ae8fcf475e5ba2433c7eb2310 ""
   "abstract.bbl" 1415027363 5029 138ae1f3fe67428d8897df96e098b121 "bibtex abstract"
   "abstract.out" 1415027372 101 e0a44aa8ff0d0d660eee263c9af33c2b ""
-  "abstract.tex" 1415027339 6334 449e67a12f16970da284b3ace74e53c4 ""
+  "abstract.tex" 1415027678 6381 b08811b4b13391fa9264867e477f912d ""
   "honesty_plot.png" 1407331539 968819 0a79d6946f6a294e0bf094cbbd946ccd ""
   "honesty_sharing.png" 1407330405 1367410 50b839cd5a77f8644301d457926f37e4 ""
   (generated)
   "abstract.pdf"
-  "abstract.out"
-  "abstract.log"
   "abstract.aux"
+  "abstract.log"
+  "abstract.out"

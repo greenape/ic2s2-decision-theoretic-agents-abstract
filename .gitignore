@@ -1,2 +1,4 @@
 
 *.sync*.gz
+
+*.fdb_latexmk
