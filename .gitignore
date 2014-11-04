@@ -18,3 +18,13 @@
 *.out
 
 *.aux
+
+abstract.aux
+
+abstract.bbl
+
+abstract.blg
+
+abstract.fdb_latexmk
+
+abstract.log
